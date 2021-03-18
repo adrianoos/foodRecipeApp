@@ -1,0 +1,25 @@
+.recipe{
+border-radius: 5px;
+box-shadow: 0px 5px 5px black;
+margin: 20px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+background-color: rgb(170, 170, 170);
+align-items: center;
+min-width: 40%;
+}
+.image{
+    width: 30vw;
+    height: 18vw;
+    margin: 5px;
+    border: 2px;
+    border-style: double;
+    border-color: rgb(104, 104, 104);
+    border-radius: 5px;
+}
+
+.infoLack {
+    position: absolute;
+    top: 30vw;
+}

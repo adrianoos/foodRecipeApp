@@ -1,0 +1,11 @@
+body,html {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(122, 122, 122);
+}
+
+@font-face {
+  font-family: 'Baguette';
+  src: local('Baguette'), url(./fonts/Baguette.ttf) format('truetype');
+}
