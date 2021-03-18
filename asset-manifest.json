@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/foodRecipeApp/static/css/main.0eb3bad6.chunk.css",
+    "main.js": "/foodRecipeApp/static/js/main.3ec80093.chunk.js",
+    "main.js.map": "/foodRecipeApp/static/js/main.3ec80093.chunk.js.map",
+    "runtime-main.js": "/foodRecipeApp/static/js/runtime-main.9e0c8262.js",
+    "runtime-main.js.map": "/foodRecipeApp/static/js/runtime-main.9e0c8262.js.map",
+    "static/js/2.518a413e.chunk.js": "/foodRecipeApp/static/js/2.518a413e.chunk.js",
+    "static/js/2.518a413e.chunk.js.map": "/foodRecipeApp/static/js/2.518a413e.chunk.js.map",
+    "index.html": "/foodRecipeApp/index.html",
+    "static/css/main.0eb3bad6.chunk.css.map": "/foodRecipeApp/static/css/main.0eb3bad6.chunk.css.map",
+    "static/js/2.518a413e.chunk.js.LICENSE.txt": "/foodRecipeApp/static/js/2.518a413e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/foodRecipeApp/static/media/Baguette.eff516a6.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e0c8262.js",
+    "static/js/2.518a413e.chunk.js",
+    "static/css/main.0eb3bad6.chunk.css",
+    "static/js/main.3ec80093.chunk.js"
+  ]
+}
